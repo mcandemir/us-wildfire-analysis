@@ -31,3 +31,7 @@ Install dependencies.
 $ pip install -r requirements.txt
 ```
 
+## Run Jupyter Notebook
+```shell
+$ jupyter-notebook
+```
