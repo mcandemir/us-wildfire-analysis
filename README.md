@@ -16,7 +16,7 @@ You can also use a jupyter notebook docker image instead of creating an environm
 ### 1) Using Jupyter Notebook docker image
 
 ```shell
-$ docker run -it --rm -p 8889:8888 -v "${PWD}":/home/jovyan/work jupyter/datascience-notebook:python-3.10.6
+$ docker run -it --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work jupyter/datascience-notebook:python-3.10.6
 ```
 
 ### 2) Using pip
