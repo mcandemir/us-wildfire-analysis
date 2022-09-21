@@ -3,6 +3,7 @@ This project contains:
 <ul>
     <li>The 1.88M U.S. Wildfires Data</li>
     <li>Analysis Report as PDF</li>
+    <li>Analysis Report as Document</li>
     <li>Analysis Notebook as HTML</li>
     <li>Analysis Notebook</li>
     <li>Requirements.txt</li>
